@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/discord-project/static/css/main.073c9b0a.css",
+    "main.js": "/discord-project/static/js/main.1b4e9b1d.js",
+    "index.html": "/discord-project/index.html",
+    "main.073c9b0a.css.map": "/discord-project/static/css/main.073c9b0a.css.map",
+    "main.1b4e9b1d.js.map": "/discord-project/static/js/main.1b4e9b1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1b4e9b1d.js"
+  ]
+}
